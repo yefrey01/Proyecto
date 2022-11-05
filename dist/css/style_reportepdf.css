@@ -1,0 +1,109 @@
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #fff;
+}
+
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.logo {
+  float: right;
+  display: block;
+  width: 135px;
+}
+
+
+.letrachica{
+  display: block;
+  color:#666666;
+  font-size: 9px;
+
+}
+
+
+h3.titulo {
+  margin: 0;
+  color: #000;
+  font-weight: normal;
+  text-align: center;
+
+  line-height: 20px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+h2{
+  margin: 0;
+  color: #000;
+  font-weight: normal;
+  text-align: center;
+
+  line-height: 20px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.letrablanca{
+  color:#ffffff;
+  font-weight:bold; 
+ }
+
+.letrainformacion{
+  color:#000000;
+  font-weight:bold;
+  font-size: 10px;
+}
+
+.titulodiv{
+  font-weight:bold;
+  font-size: 12px;
+}
+
+.informacion_tabla{	
+
+	font-size: 10px;  
+	color: #58585A;
+    }
+
+
+.bordetablatitulo{
+	 border-radius: 5px; 
+	 background-color:#ac3131;
+}
+
+.bordetablafilas{
+	 border-radius: 5px; 
+	 background-color:#E8E8E9; 
+	 color:#000000;
+	 font-size: 12px;	 
+}
+
+.letratotal{
+   border-radius: 5px; 
+   font-size: 12px; 
+   font-weight:bold; 
+}
+
+.derecha{
+  float: right;
+}
+
+.izquierda{
+  float: left;
+}
